@@ -21,6 +21,7 @@ public class MainClass11 {
 		
 		//System.out.println(item.name);
 		System.out.println(item.getName());
+		//수정함
 	}
 }
 
